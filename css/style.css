@@ -311,6 +311,9 @@ footer .latest-sec p {
   footer .col-lg-3 {
     margin-top: 25px;
   } 
+  .image-to-right img {
+  width: 100%;
+  }
 }
 
 footer .latest-sec {
